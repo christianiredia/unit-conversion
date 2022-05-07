@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 550px;
+    color: white;
+    font-family: 'Inter'
+   
+}
+
+.title-and-number {
+    height: 260px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    text-align: center;
+   
+}
+
+h2 {
+    padding-top: 53px;
+    
+}
+
+.number {
+   font-weight: 800px;
+   font-size: 97px;
+    line-height: 24px;
+       }
+       
+.metrics {
+    background: #1F2937;
+    text-align: center;
+    height: 550px;
+    font-size: 14px;
+    padding-top: 38px;
+    line-height: 20px;
+       }
+       
+.length {
+    padding-bottom: 27px;
+}
+
+.volume {
+    padding-bottom: 27px;
+}
+
+.mass {
+    padding-bottom: 38px;
+}
+
+.measure {
+    font-weight: 600;
+}
